@@ -1,0 +1,15 @@
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\bin\Debug\net6.0\P16 - Fatorial De 1 Ate 10.exe
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\bin\Debug\net6.0\P16 - Fatorial De 1 Ate 10.deps.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\bin\Debug\net6.0\P16 - Fatorial De 1 Ate 10.runtimeconfig.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\bin\Debug\net6.0\P16 - Fatorial De 1 Ate 10.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\bin\Debug\net6.0\P16 - Fatorial De 1 Ate 10.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\P16 - Fatorial De 1 Ate 10.csproj.AssemblyReference.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\P16 - Fatorial De 1 Ate 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\P16 - Fatorial De 1 Ate 10.AssemblyInfoInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\P16 - Fatorial De 1 Ate 10.AssemblyInfo.cs
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\P16 - Fatorial De 1 Ate 10.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\P16 - Fatorial De 1 Ate 10.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\refint\P16 - Fatorial De 1 Ate 10.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\P16 - Fatorial De 1 Ate 10.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\P16 - Fatorial De 1 Ate 10.genruntimeconfig.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P16 - Fatorial De 1 Ate 10\obj\Debug\net6.0\ref\P16 - Fatorial De 1 Ate 10.dll

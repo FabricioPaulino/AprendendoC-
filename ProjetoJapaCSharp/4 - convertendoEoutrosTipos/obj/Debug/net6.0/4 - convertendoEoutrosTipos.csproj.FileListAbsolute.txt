@@ -1,0 +1,15 @@
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\bin\Debug\net6.0\4 - convertendoEoutrosTipos.exe
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\bin\Debug\net6.0\4 - convertendoEoutrosTipos.deps.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\bin\Debug\net6.0\4 - convertendoEoutrosTipos.runtimeconfig.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\bin\Debug\net6.0\4 - convertendoEoutrosTipos.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\bin\Debug\net6.0\4 - convertendoEoutrosTipos.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\4 - convertendoEoutrosTipos.csproj.AssemblyReference.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\4 - convertendoEoutrosTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\4 - convertendoEoutrosTipos.AssemblyInfoInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\4 - convertendoEoutrosTipos.AssemblyInfo.cs
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\4 - convertendoEoutrosTipos.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\4 - convertendoEoutrosTipos.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\refint\4 - convertendoEoutrosTipos.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\4 - convertendoEoutrosTipos.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\4 - convertendoEoutrosTipos.genruntimeconfig.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\4 - convertendoEoutrosTipos\obj\Debug\net6.0\ref\4 - convertendoEoutrosTipos.dll

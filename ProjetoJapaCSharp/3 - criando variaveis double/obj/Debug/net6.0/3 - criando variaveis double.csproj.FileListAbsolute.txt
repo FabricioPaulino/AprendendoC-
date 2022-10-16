@@ -1,0 +1,15 @@
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\bin\Debug\net6.0\3 - criando variaveis double.exe
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\bin\Debug\net6.0\3 - criando variaveis double.deps.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\bin\Debug\net6.0\3 - criando variaveis double.runtimeconfig.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\bin\Debug\net6.0\3 - criando variaveis double.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\bin\Debug\net6.0\3 - criando variaveis double.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\3 - criando variaveis double.csproj.AssemblyReference.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\3 - criando variaveis double.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\3 - criando variaveis double.AssemblyInfoInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\3 - criando variaveis double.AssemblyInfo.cs
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\3 - criando variaveis double.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\3 - criando variaveis double.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\refint\3 - criando variaveis double.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\3 - criando variaveis double.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\3 - criando variaveis double.genruntimeconfig.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\3 - criando variaveis double\obj\Debug\net6.0\ref\3 - criando variaveis double.dll

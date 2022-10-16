@@ -1,0 +1,15 @@
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\14 - encadeandofor.csproj.AssemblyReference.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\14 - encadeandofor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\14 - encadeandofor.AssemblyInfoInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\14 - encadeandofor.AssemblyInfo.cs
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\14 - encadeandofor.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\bin\Debug\net6.0\14 - encadeandofor.exe
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\bin\Debug\net6.0\14 - encadeandofor.deps.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\bin\Debug\net6.0\14 - encadeandofor.runtimeconfig.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\bin\Debug\net6.0\14 - encadeandofor.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\bin\Debug\net6.0\14 - encadeandofor.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\14 - encadeandofor.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\refint\14 - encadeandofor.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\14 - encadeandofor.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\14 - encadeandofor.genruntimeconfig.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\14 - encadeandofor\obj\Debug\net6.0\ref\14 - encadeandofor.dll

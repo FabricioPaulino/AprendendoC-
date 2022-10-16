@@ -1,0 +1,15 @@
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\bin\Debug\net6.0\P17 - Do while.exe
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\bin\Debug\net6.0\P17 - Do while.deps.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\bin\Debug\net6.0\P17 - Do while.runtimeconfig.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\bin\Debug\net6.0\P17 - Do while.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\bin\Debug\net6.0\P17 - Do while.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\P17 - Do while.csproj.AssemblyReference.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\P17 - Do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\P17 - Do while.AssemblyInfoInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\P17 - Do while.AssemblyInfo.cs
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\P17 - Do while.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\P17 - Do while.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\refint\P17 - Do while.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\P17 - Do while.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\P17 - Do while.genruntimeconfig.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\P17 - Do while\obj\Debug\net6.0\ref\P17 - Do while.dll

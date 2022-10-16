@@ -1,0 +1,15 @@
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\bin\Debug\net6.0\P10 - switch.exe
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\bin\Debug\net6.0\P10 - switch.deps.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\bin\Debug\net6.0\P10 - switch.runtimeconfig.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\bin\Debug\net6.0\P10 - switch.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\bin\Debug\net6.0\P10 - switch.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\P10 - switch.csproj.AssemblyReference.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\P10 - switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\P10 - switch.AssemblyInfoInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\P10 - switch.AssemblyInfo.cs
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\P10 - switch.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\P10 - switch.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\refint\P10 - switch.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\P10 - switch.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\P10 - switch.genruntimeconfig.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\10 - switch\obj\Debug\net6.0\ref\P10 - switch.dll

@@ -1,0 +1,15 @@
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\bin\Debug\net6.0\ProjetoJapa.exe
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\bin\Debug\net6.0\ProjetoJapa.deps.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\bin\Debug\net6.0\ProjetoJapa.runtimeconfig.json
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\bin\Debug\net6.0\ProjetoJapa.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\bin\Debug\net6.0\ProjetoJapa.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ProjetoJapa.csproj.AssemblyReference.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ProjetoJapa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ProjetoJapa.AssemblyInfoInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ProjetoJapa.AssemblyInfo.cs
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ProjetoJapa.csproj.CoreCompileInputs.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ProjetoJapa.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\refint\ProjetoJapa.dll
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ProjetoJapa.pdb
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ProjetoJapa.genruntimeconfig.cache
+C:\Users\Fabricio\source\repos\ProjetoJapaCSharp\ProjetoJapa\obj\Debug\net6.0\ref\ProjetoJapa.dll
